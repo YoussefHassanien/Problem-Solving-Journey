@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Education\Problem Solving Content\Medium\Arrays & Hashing\String Encode & Decode\main.cpp(22,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Education\Problem Solving Content\Medium\Arrays & Hashing\String Encode & Decode\main.cpp(36,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  String Encode & Decode.vcxproj -> D:\Education\Problem Solving Content\Medium\Arrays & Hashing\String Encode & Decode\x64\Debug\String Encode & Decode.exe
