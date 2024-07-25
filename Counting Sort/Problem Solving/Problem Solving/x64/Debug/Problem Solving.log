@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Education\Problem Solving Content\Counting Sort\Problem Solving\main.cpp(24,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Problem Solving.vcxproj -> D:\Education\Problem Solving Content\Counting Sort\Problem Solving\x64\Debug\Problem Solving.exe
