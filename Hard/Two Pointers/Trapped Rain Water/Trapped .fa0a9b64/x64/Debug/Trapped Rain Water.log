@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Education\Problem Solving Content\Hard\Two Pointers\Trapped Rain Water\main.cpp(31,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Trapped Rain Water.vcxproj -> D:\Education\Problem Solving Content\Hard\Two Pointers\Trapped Rain Water\x64\Debug\Trapped Rain Water.exe
