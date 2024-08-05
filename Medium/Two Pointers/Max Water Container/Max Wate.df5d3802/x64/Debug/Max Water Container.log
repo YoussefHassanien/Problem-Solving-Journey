@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Education\Problem Solving Content\Medium\Two Pointers\Max Water Container\main.cpp(14,50): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Education\Problem Solving Content\Medium\Two Pointers\Max Water Container\main.cpp(24,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Max Water Container.vcxproj -> D:\Education\Problem Solving Content\Medium\Two Pointers\Max Water Container\x64\Debug\Max Water Container.exe
